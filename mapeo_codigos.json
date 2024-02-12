@@ -1,0 +1,27 @@
+{
+    "SEXO": {
+        "1": "Masculino",
+        "2": "Femenino"
+    },
+    "PARENTESCO": {
+        "1": "Jefe/a de hogar",
+        "2": "Esposo/a",
+        "3": "Hijo/a"
+    },
+    "PADRE": {
+        "1": "Vivo",
+        "2": "Fallecido"
+    },
+    "MADRE": {
+        "1": "Viva",
+        "2": "Fallecida"
+    },
+    "CONSENTIMIENTO": {
+        "1": "S\u00ed",
+        "2": "No"
+    },
+    "RESULTADO": {
+        "1": "Aprobado",
+        "2": "Rechazado"
+    }
+}
