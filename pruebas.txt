@@ -1,0 +1,71 @@
+Para detallar el proceso de conversión de binario a decimal, explicaré cómo se calculó cada respuesta paso a paso:
+a 1110Decimal: 14
+
+1. 1 \times 2^3 = 8\
+2. 1 \times 2^2 = 4\
+3. 1 \times 2^1 = 2\
+4. 0 \times 2^0 = 0\
+
+Sumando: 8 + 4 + 2 + 0 = 14\
+b 1010Decimal: 10
+
+1. 1 \times 2^3 = 8\
+2. 0 \times 2^2 = 0\
+3. 1 \times 2^1 = 2\
+4. 0 \times 2^0 = 0\
+
+Sumando: 8 + 0 + 2 + 0 = 10\
+e 11100Decimal: 28
+
+1. 1 \times 2^4 = 16\
+2. 1 \times 2^3 = 8\
+3. 1 \times 2^2 = 4\
+4. 0 \times 2^1 = 0\
+5. 0 \times 2^0 = 0\
+
+Sumando: 16 + 8 + 4 + 0 + 0 = 28\
+d 10000Decimal: 16
+
+1. 1 \times 2^4 = 16\
+2. 0 \times 2^3 = 0\
+3. 0 \times 2^2 = 0\
+4. 0 \times 2^1 = 0\
+5. 0 \times 2^0 = 0\
+
+Sumando: 16 + 0 + 0 + 0 + 0 = 16\
+e 10101Decimal: 21
+
+1. 1 \times 2^4 = 16\
+2. 0 \times 2^3 = 0\
+3. 1 \times 2^2 = 4\
+4. 0 \times 2^1 = 0\
+5. 1 \times 2^0 = 1\
+
+Sumando: 16 + 0 + 4 + 0 + 1 = 21\
+f 11101Decimal: 29
+
+1. 1 \times 2^4 = 16\
+2. 1 \times 2^3 = 8\
+3. 1 \times 2^2 = 4\
+4. 0 \times 2^1 = 0\
+5. 1 \times 2^0 = 1\
+
+Sumando: 16 + 8 + 4 + 0 + 1 = 29\
+g 10111Decimal: 23
+
+1. 1 \times 2^4 = 16\
+2. 0 \times 2^3 = 0\
+3. 1 \times 2^2 = 4\
+4. 1 \times 2^1 = 2\
+5. 1 \times 2^0 = 1\
+
+Sumando: 16 + 0 + 4 + 2 + 1 = 23\
+h 11111Decimal: 31
+
+1. 1 \times 2^4 = 16\
+2. 1 \times 2^3 = 8\
+3. 1 \times 2^2 = 4\
+4. 1 \times 2^1 = 2\
+5. 1 \times 2^0 = 1\
+
+Sumando: 16 + 8 + 4 + 2 + 1 = 31\
